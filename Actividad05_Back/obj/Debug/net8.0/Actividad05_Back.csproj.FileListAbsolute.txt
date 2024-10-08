@@ -1,0 +1,5 @@
+C:\Users\USURIO\OneDrive\Documentos\Actividad05\Actividad_5\Actividad05_Back\obj\Debug\net8.0\Actividad05_Back.csproj.AssemblyReference.cache
+C:\Users\USURIO\OneDrive\Documentos\Actividad05\Actividad_5\Actividad05_Back\obj\Debug\net8.0\Actividad05_Back.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USURIO\OneDrive\Documentos\Actividad05\Actividad_5\Actividad05_Back\obj\Debug\net8.0\Actividad05_Back.AssemblyInfoInputs.cache
+C:\Users\USURIO\OneDrive\Documentos\Actividad05\Actividad_5\Actividad05_Back\obj\Debug\net8.0\Actividad05_Back.AssemblyInfo.cs
+C:\Users\USURIO\OneDrive\Documentos\Actividad05\Actividad_5\Actividad05_Back\obj\Debug\net8.0\Actividad05_Back.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\USURIO\OneDrive\Documentos\Actividad05\Actividad_5\Actividad_5\obj\Debug\net8.0\Actividad_5.csproj.AssemblyReference.cache
+C:\Users\USURIO\OneDrive\Documentos\Actividad05\Actividad_5\Actividad_5\obj\Debug\net8.0\Actividad_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USURIO\OneDrive\Documentos\Actividad05\Actividad_5\Actividad_5\obj\Debug\net8.0\Actividad_5.AssemblyInfoInputs.cache
+C:\Users\USURIO\OneDrive\Documentos\Actividad05\Actividad_5\Actividad_5\obj\Debug\net8.0\Actividad_5.AssemblyInfo.cs
+C:\Users\USURIO\OneDrive\Documentos\Actividad05\Actividad_5\Actividad_5\obj\Debug\net8.0\Actividad_5.csproj.CoreCompileInputs.cache
+C:\Users\USURIO\OneDrive\Documentos\Actividad05\Actividad_5\Actividad_5\obj\Debug\net8.0\Actividad_5.MvcApplicationPartsAssemblyInfo.cache
